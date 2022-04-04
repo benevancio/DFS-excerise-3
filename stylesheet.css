@@ -1,0 +1,24 @@
+body {
+  background-color: Black;
+}
+
+title {
+  font-family: 'Helvetica', sans-serif; 
+  font-size: 20px;
+}
+
+w3-bar {
+  color: rgb(124, 123, 123);
+  text-align: center;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+
+.box{
+background-image: url(img/hero-image.jpg);
+padding: 100 px;
+margin: 100 px;
+}
